@@ -3,4 +3,9 @@ California, USA
 Netherlands
 Espoo, Finland
 Monchester, UK
+<<<<<<< Updated upstream
 Espoo, Finland
+=======
+finland
+
+>>>>>>> Stashed changes
